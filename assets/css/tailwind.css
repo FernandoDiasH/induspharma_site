@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 body {
-    @apply bg-slate-700 2xl:max-w-screen-2xl;
+    @apply  2xl:max-w-screen-2xl;
     margin: 0 auto;
 }
